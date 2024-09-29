@@ -1,18 +1,33 @@
-![tech-1](https://github.com/user-attachments/assets/81291832-73fb-43ab-918b-45bd1b9d0a80)# techno
+Project Overview
+    This project focuses on creating a minimalistic yet elegant black-and-white screen design, featuring effective use of State Management to ensure smooth user interactions.
 
-A new Flutter project.
+Key Highlights:
+    🚀 Validation Only: The code in this project is designed purely for validation purposes, not for verification.
+    📱 State Management: We’ve implemented setState management to handle dynamic UI updates efficiently.
+    🎨 Design Aesthetic: The UI uses a sleek black-and-white theme for a modern, professional look.
 
-## Getting Started
+🛠️ Tech Stack
+    Flutter: For building the cross-platform application.
+    Dart: The primary programming language.
+    State Management: setState for managing widget states dynamically.
 
-This project is a starting point for a Flutter application.
+💡 Features
+    Intuitive user interface with a focus on usability and design simplicity.
+    Real-time updates using setState.
+    Efficient validation techniques integrated into form handling.
 
-A few resources to get you started if this is your first Flutter project:
+🌟 Screenshots
+![tech-7](https://github.com/user-attachments/assets/488e130e-3240-4b77-b1e5-4280cc4a1536)
+![tech-5](https://github.com/user-attachments/assets/94afb8c6-39c3-4b43-b3ff-07bf48f0375b)
+![tech-4](https://github.com/user-attachments/assets/d4f90093-bc2d-4c40-95c3-c200600e77c0)
+![tech-3](https://github.com/user-attachments/assets/2dd07acd-64c0-43a2-8417-1284e194e824)
+![tech-2](https://github.com/user-attachments/assets/bb9347ec-d5e2-47ac-8527-4c9731801b0a)
+![tech-1](https://github.com/user-attachments/assets/62347ee6-fc6e-4e54-bc1c-e2d77b18c4e3)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Install dependencies:
+    flutter pub get
+Run the app:
+    flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,![Uploading tech-1.png…](![Uploading tech-2.png…]()
-)
 
-samples, guidance on mobile development, and a full API reference.
+
