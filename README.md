@@ -25,8 +25,12 @@ Key Highlights:
 ![tech-1](https://github.com/user-attachments/assets/62347ee6-fc6e-4e54-bc1c-e2d77b18c4e3)
 
 Install dependencies:
+
     flutter pub get
+
+
 Run the app:
+    
     flutter run
 
 
